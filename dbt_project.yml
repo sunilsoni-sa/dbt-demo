@@ -40,6 +40,6 @@ models:
 
     example:
       materialized: table
-      database: dev
-      schema: public
+      database: DBT_DEMO
+      schema: S_R_D
       table: demo_table_created
