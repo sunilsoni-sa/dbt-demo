@@ -40,5 +40,4 @@ models:
 
     example:
       materialized: table
-      database: DBT_DEMO
       schema: S_R_D
